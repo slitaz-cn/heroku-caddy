@@ -1,0 +1,9 @@
+{
+  "name": "caddy",
+  "description": "Deploy caddy to Heroku.",
+  "keywords": [
+    "chausat"
+  ],
+  "repository": "https://github.com/slitaz-cn/heroku-caddy",
+  "stack": "container"
+}
